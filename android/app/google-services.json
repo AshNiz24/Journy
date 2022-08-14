@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980054104305",
+    "project_id": "journy-2dab6",
+    "storage_bucket": "journy-2dab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980054104305:android:02a7dad91e5fff783d7150",
+        "android_client_info": {
+          "package_name": "com.techbees.journy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980054104305-btukgu84d9vh42ohp5o42hj8g65j9hle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_dMNtx0wmioaeeMHHq21c_zV5AFoZk2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980054104305-btukgu84d9vh42ohp5o42hj8g65j9hle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
